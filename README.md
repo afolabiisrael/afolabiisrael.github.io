@@ -11,14 +11,14 @@ I am passionate about data analysis and solving real-world problems using Micros
 - Dashboard Creation
 
 ## 📂 Projects
-[Download Projects] (./Cleaned_Sales_data.xlsx)
-[Download Projects] (./Cleaned_company_data.xlsx)
-[Download Projects] (./Cleaned_company_dataa.xlsx)
 
 ### 📊 Sales Data Cleaning
 - Cleaned messy dataset
 - Removed duplicates and blanks
 - Standardized data
+[Download Projects] (./Cleaned_Sales_data.xlsx)
+[Download Projects] (./Cleaned_company_data.xlsx)
+[Download Projects] (./Cleaned_company_dataa.xlsx)
 
 ## 📎 Resume
 [Download My CV] (./Afolabi_CV.pdf.pdf)
